@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kubikzubik.github.io/shop_cart/static/css/main.eca1daa7.css",
+    "main.js": "/kubikzubik.github.io/shop_cart/static/js/main.c2ab6859.js",
+    "index.html": "/kubikzubik.github.io/shop_cart/index.html",
+    "main.eca1daa7.css.map": "/kubikzubik.github.io/shop_cart/static/css/main.eca1daa7.css.map",
+    "main.c2ab6859.js.map": "/kubikzubik.github.io/shop_cart/static/js/main.c2ab6859.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eca1daa7.css",
+    "static/js/main.c2ab6859.js"
+  ]
+}
